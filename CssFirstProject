@@ -1,0 +1,50 @@
+DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microsoft</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <nav class="nav-bar">
+        <a href="#">
+          <img class="logo" src="./images/logo.jpg" alt="Microsoft logo" />
+        </a>
+        <ul class="main-menu">
+          <li><a href="#">Office</a></li>
+          <li><a href="#">Windows</a></li>
+          <li><a href="#">Surface</a></li>
+          <li><a href="#">Xbox</a></li>
+          <li><a href="#">Ofertas</a></li>
+          <li><a href="#">Soporte</a></li>
+        </ul>
+
+        <ul class="right-menu">
+          <li><i class="fas fa-search"></i></li>
+          <li><i class="fas fa-shopping-cart"></i></li>
+        </ul>
+      </nav>
+      <section class="header">
+        <div class="header-text">
+          <h1 class="header-heading">
+            Surface Pro 7: a partir de <br />
+            769€
+          </h1>
+          <p class="header-desc">
+            Llévatelo en Pack junto a su Funda con Teclado y ahorra aún más.
+          </p>
+          <h1 class="header-btn1">
+            COMPRAR SURFACE PRO 7
+            <span><i class="fas fa-chevron-right"></i></span>
+          </h1>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
